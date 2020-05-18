@@ -1,0 +1,12 @@
+C:\Users\ArafaAlsayed\source\repos\MyPortfolio\Infrastrucure\bin\Debug\netstandard2.1\Infrastrucure.deps.json
+C:\Users\ArafaAlsayed\source\repos\MyPortfolio\Infrastrucure\bin\Debug\netstandard2.1\Infrastrucure.dll
+C:\Users\ArafaAlsayed\source\repos\MyPortfolio\Infrastrucure\bin\Debug\netstandard2.1\Infrastrucure.pdb
+C:\Users\ArafaAlsayed\source\repos\MyPortfolio\Infrastrucure\bin\Debug\netstandard2.1\Core.dll
+C:\Users\ArafaAlsayed\source\repos\MyPortfolio\Infrastrucure\bin\Debug\netstandard2.1\Core.pdb
+C:\Users\ArafaAlsayed\source\repos\MyPortfolio\Infrastrucure\obj\Debug\netstandard2.1\Infrastrucure.csprojAssemblyReference.cache
+C:\Users\ArafaAlsayed\source\repos\MyPortfolio\Infrastrucure\obj\Debug\netstandard2.1\Infrastrucure.csproj.CoreCompileInputs.cache
+C:\Users\ArafaAlsayed\source\repos\MyPortfolio\Infrastrucure\obj\Debug\netstandard2.1\Infrastrucure.AssemblyInfoInputs.cache
+C:\Users\ArafaAlsayed\source\repos\MyPortfolio\Infrastrucure\obj\Debug\netstandard2.1\Infrastrucure.AssemblyInfo.cs
+C:\Users\ArafaAlsayed\source\repos\MyPortfolio\Infrastrucure\obj\Debug\netstandard2.1\Infrastrucure.csproj.CopyComplete
+C:\Users\ArafaAlsayed\source\repos\MyPortfolio\Infrastrucure\obj\Debug\netstandard2.1\Infrastrucure.dll
+C:\Users\ArafaAlsayed\source\repos\MyPortfolio\Infrastrucure\obj\Debug\netstandard2.1\Infrastrucure.pdb

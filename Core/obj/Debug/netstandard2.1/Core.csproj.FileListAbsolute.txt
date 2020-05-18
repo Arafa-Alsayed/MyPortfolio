@@ -1,0 +1,9 @@
+C:\Users\ArafaAlsayed\source\repos\MyPortfolio\Core\bin\Debug\netstandard2.1\Core.deps.json
+C:\Users\ArafaAlsayed\source\repos\MyPortfolio\Core\bin\Debug\netstandard2.1\Core.dll
+C:\Users\ArafaAlsayed\source\repos\MyPortfolio\Core\bin\Debug\netstandard2.1\Core.pdb
+C:\Users\ArafaAlsayed\source\repos\MyPortfolio\Core\obj\Debug\netstandard2.1\Core.csprojAssemblyReference.cache
+C:\Users\ArafaAlsayed\source\repos\MyPortfolio\Core\obj\Debug\netstandard2.1\Core.csproj.CoreCompileInputs.cache
+C:\Users\ArafaAlsayed\source\repos\MyPortfolio\Core\obj\Debug\netstandard2.1\Core.AssemblyInfoInputs.cache
+C:\Users\ArafaAlsayed\source\repos\MyPortfolio\Core\obj\Debug\netstandard2.1\Core.AssemblyInfo.cs
+C:\Users\ArafaAlsayed\source\repos\MyPortfolio\Core\obj\Debug\netstandard2.1\Core.dll
+C:\Users\ArafaAlsayed\source\repos\MyPortfolio\Core\obj\Debug\netstandard2.1\Core.pdb
